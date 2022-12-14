@@ -5,5 +5,5 @@
  * @author User
  *
  */
-module PizzaSimpleSolution {
+module PizzaRefinedSolution {
 }
